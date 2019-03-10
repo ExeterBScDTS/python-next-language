@@ -1,7 +1,7 @@
 # python-next-language
 Learning another programming language
 
-# Learning another languge after Python
+## Learning another languge after Python
 
 This is a short guide to other programming languages for those who are familiar wth Python. There are many reasons why those 
 familiar with Python might wish to use another programming language, here a a few -
@@ -10,19 +10,22 @@ familiar with Python might wish to use another programming language, here a a fe
  
  * progamming devices such as mobile phones or internet of things
 
-# Choosing another programming language
+## Choosing another programming language
 
-Most likely the next programming language you learn after Python will be decided by your cicrumstances, but will almost certainly 
-fall into the following groups.
+Most likely the next programming language you learn after Python will be decided by your circumstances, but will almost certainly fall into one of the following groups.
 
-## The C/C++/C#/Java/Rust family
+### The C/C++/C#/Java/Rust family
 
-These are all compiled languages
+These are all compiled languages based on the C programming language.
 
-## JavaScript
+### JavaScript
 
-JavaScript has a syntax very much like the C/Java family but is an interpretted language like Python.
+JavaScript has a syntax very much like the C/Java family but is an interpreted language like Python.
 
-## R
+### R
 
-R is a statistical language.
+R is an interpreted statistical language.
+
+## Compiled or interpreted
+
+If you're unsure of the distinction between compiled and interpreted languages see https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
