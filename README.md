@@ -29,3 +29,22 @@ R is an interpreted statistical language.
 ## Compiled or interpreted
 
 If you're unsure of the distinction between compiled and interpreted languages see https://hackernoon.com/compilers-and-interpreters-3e354a2e41cf
+
+## Other languages
+
+For the time being I'm not including examples of these programming languages.
+
+* Go
+
+* F#
+
+* PHP
+
+* Perl
+
+* Fortran
+
+* Rexx/NetRexx/ooRexx
+
+Other legacy languages such as COBOL and the many flavours of BASIC really aren't worth covering here.  If you have
+a need to use, or even just read, these languages your knowledge of Python will stand you in good stead.
