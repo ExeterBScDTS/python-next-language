@@ -1,14 +1,13 @@
 # python-next-language
+
 Learning another programming language
 
-## Learning another languge after Python
+## Learning another language after Python
 
-This is a short guide to other programming languages for those who are familiar wth Python. There are many reasons why those 
-familiar with Python might wish to use another programming language, here a a few -
+This is a short guide to other programming languages for those who are familiar wth Python. There are many reasons why those familiar with Python might wish to use another programming language, here a a few -
 
- * contributing to a project using a different language
- 
- * progamming devices such as mobile phones or internet of things
+* contributing to a project using a different language
+* programming devices such as mobile phones or internet of things
 
 ## Choosing another programming language
 
