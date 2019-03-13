@@ -17,9 +17,9 @@ Most likely the next programming language you learn after Python will be decided
 
 These are all compiled languages based on the C programming language.
 
-### JavaScript
+### JavaScript, TypeScript, CoffeeScript and NodeJS
 
-JavaScript has a syntax very much like the C/Java family but is an interpreted language like Python.
+JavaScript has a syntax very much like the C/Java family but is an interpreted language like Python. TypeScript and CoffeeScript provide extra features and *compile* to JavaScript.
 
 ### R
 
